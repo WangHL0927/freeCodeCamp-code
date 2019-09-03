@@ -8,3 +8,6 @@ indent_style = space
 insert_final_newline = true
 max_line_length = 150
 tab_width = 2
+
+[{*.html,*.htm}]
+indent_size = 4
